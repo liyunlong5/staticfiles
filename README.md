@@ -1,1 +1,1 @@
-# 一些常用的静态文件，结合jsdelivr使用效果更好
+# Some static files，use with jsdelivr
